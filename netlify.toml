@@ -1,0 +1,5 @@
+[build]
+  publish = "."
+
+# This is a static HTML site: no build command is needed.
+# Netlify should deploy the repository root, including index.html.
